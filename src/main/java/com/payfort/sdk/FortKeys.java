@@ -43,5 +43,6 @@ public final class FortKeys {
     public static final FortKey SETTLEMENT_REFERENCE = new FortKey("settlement_reference");
     public static final FortKey SERVICE_COMMAND = new FortKey("service_command");
     public static final FortKey REMEMBER_ME = new FortKey("remember_me");
+    public static final FortKey CARD_BIN = new FortKey("card_bin");
 
 }
